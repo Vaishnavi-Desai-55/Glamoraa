@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="mug in Ivory" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="shp" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".20"/><stop offset=".35" stop-color="#fff" stop-opacity=".16"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".24"/></linearGradient>
+<clipPath id="cpp"><path d="M270 440 H510 V752 Q510 786 476 786 H304 Q270 786 270 752 Z"/></clipPath>
+<radialGradient id="glp" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="#F3EEEA"/>
+<rect width="800" height="1000" fill="url(#glp)"/>
+<path d="M150 1000 V420 a250 250 0 0 1 500 0 V1000 Z" fill="#E6E2DE"/>
+<rect y="900" width="800" height="100" fill="#DFDAD7"/>
+<g>
+<ellipse cx="400" cy="845" rx="260" ry="16" fill="#000" opacity=".12"/>
+<g fill="none" stroke="#A39E95"><path d="M510 500 Q620 500 620 580 Q620 664 510 664" fill="none" stroke-width="30" stroke-linecap="round"/></g>
+<path d="M270 440 H510 V752 Q510 786 476 786 H304 Q270 786 270 752 Z" fill="#F1E9DC" stroke="#A39E95" stroke-width="3" stroke-linejoin="round"/>
+<g clip-path="url(#cpp)"><rect x="0" y="0" width="800" height="1000" fill="url(#shp)"/></g>
+<g fill="none" stroke="#A39E95" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M270 440 Q390 470 510 440"/><path d="M270 700 H510"/></g>
+</g>
+</svg>

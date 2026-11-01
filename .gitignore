@@ -1,0 +1,22 @@
+# Build output
+target/
+*.class
+*.war
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+.metadata/
+Servers/
+
+# Local secrets & uploads  (never commit these)
+src/main/resources/glamoraa-local.properties
+.env
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="dress in Burgundy" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="shq" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".20"/><stop offset=".35" stop-color="#fff" stop-opacity=".16"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".24"/></linearGradient>
+<clipPath id="cpq"><path d="M330 190 Q400 236 470 190 L505 262 Q482 336 470 404 Q520 566 612 872 Q400 912 188 872 Q280 566 330 404 Q318 336 295 262 Z"/></clipPath>
+<radialGradient id="glq" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="#EEE7DC"/>
+<rect width="800" height="1000" fill="url(#glq)"/>
+<circle cx="400" cy="440" r="330" fill="#E2DBD1"/>
+<rect y="900" width="800" height="100" fill="#DAD4CA"/>
+<g transform="translate(400 540) scale(1.75) translate(-400 -470)">
+<ellipse cx="400" cy="845" rx="260" ry="16" fill="#000" opacity=".12"/>
+<g fill="none" stroke="#4B2330"></g>
+<path d="M330 190 Q400 236 470 190 L505 262 Q482 336 470 404 Q520 566 612 872 Q400 912 188 872 Q280 566 330 404 Q318 336 295 262 Z" fill="#6F3448" stroke="#4B2330" stroke-width="3" stroke-linejoin="round"/>
+<g clip-path="url(#cpq)"><rect x="0" y="0" width="800" height="1000" fill="url(#shq)"/></g>
+<g fill="none" stroke="#4B2330" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M330 190 Q400 236 470 190" /><path d="M330 404 Q400 430 470 404"/><path d="M400 430 Q380 650 330 890"/><path d="M400 430 Q430 650 500 890"/></g>
+</g>
+</svg>

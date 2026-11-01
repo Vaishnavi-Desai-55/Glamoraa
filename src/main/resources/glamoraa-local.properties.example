@@ -1,0 +1,8 @@
+# Copy this file to glamoraa-local.properties (it is git-ignored) and edit.
+
+db.url=jdbc:mysql://localhost:3306/your_database
+db.user=your_mysql_username
+db.password=your_mysql_password
+
+admin.bootstrap.email=admin@example.com
+admin.bootstrap.password=change_me_locally

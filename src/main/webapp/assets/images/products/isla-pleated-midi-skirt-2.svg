@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="skirt in Black" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="shq" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".20"/><stop offset=".35" stop-color="#fff" stop-opacity=".16"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".24"/></linearGradient>
+<clipPath id="cpq"><path d="M322 246 L478 246 L628 790 Q400 836 172 790 Z"/></clipPath>
+<radialGradient id="glq" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="#F3EEEA"/>
+<rect width="800" height="1000" fill="url(#glq)"/>
+<circle cx="400" cy="440" r="330" fill="#E6E2DE"/>
+<rect y="900" width="800" height="100" fill="#DFDAD7"/>
+<g transform="translate(400 540) scale(1.75) translate(-400 -470)">
+<ellipse cx="400" cy="845" rx="260" ry="16" fill="#000" opacity=".12"/>
+<g fill="none" stroke="#141211"></g>
+<path d="M322 246 L478 246 L628 790 Q400 836 172 790 Z" fill="#1E1B1A" stroke="#141211" stroke-width="3" stroke-linejoin="round"/>
+<g clip-path="url(#cpq)"><rect x="0" y="0" width="800" height="1000" fill="url(#shq)"/></g>
+<g fill="none" stroke="#141211" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M322 246 H478 V282 H322 Z"/><path d="M360 282 L300 810"/><path d="M400 282 V818"/><path d="M440 282 L500 810"/></g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="sweater in Navy" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="shp" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".20"/><stop offset=".35" stop-color="#fff" stop-opacity=".16"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".24"/></linearGradient>
+<clipPath id="cpp"><path d="M290 232 Q400 276 510 232 L648 566 L574 598 L512 408 L512 770 L288 770 L288 408 L226 598 L152 566 Z"/></clipPath>
+<radialGradient id="glp" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="#EADFD8"/>
+<rect width="800" height="1000" fill="url(#glp)"/>
+<path d="M150 1000 V420 a250 250 0 0 1 500 0 V1000 Z" fill="#DED3CD"/>
+<rect y="900" width="800" height="100" fill="#D7CDC6"/>
+<g>
+<ellipse cx="400" cy="845" rx="260" ry="16" fill="#000" opacity=".12"/>
+<g fill="none" stroke="#1F2739"></g>
+<path d="M290 232 Q400 276 510 232 L648 566 L574 598 L512 408 L512 770 L288 770 L288 408 L226 598 L152 566 Z" fill="#2E3A55" stroke="#1F2739" stroke-width="3" stroke-linejoin="round"/>
+<g clip-path="url(#cpp)"><rect x="0" y="0" width="800" height="1000" fill="url(#shp)"/></g>
+<g fill="none" stroke="#1F2739" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M288 730 H512"/><path d="M288 750 H512"/><path d="M330 740 V770"/><path d="M370 740 V770"/><path d="M410 740 V770"/><path d="M450 740 V770"/><path d="M290 232 Q400 276 510 232"/></g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="trousers in Sand" preserveAspectRatio="xMidYMid slice">
+<defs>
+<linearGradient id="shp" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000" stop-opacity=".20"/><stop offset=".35" stop-color="#fff" stop-opacity=".16"/><stop offset=".7" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".24"/></linearGradient>
+<clipPath id="cpp"><path d="M288 196 L512 196 L566 806 L444 806 L400 430 L356 806 L234 806 Z"/></clipPath>
+<radialGradient id="glp" cx=".5" cy=".4" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="1000" fill="#F3EEEA"/>
+<rect width="800" height="1000" fill="url(#glp)"/>
+<path d="M150 1000 V420 a250 250 0 0 1 500 0 V1000 Z" fill="#E6E2DE"/>
+<rect y="900" width="800" height="100" fill="#DFDAD7"/>
+<g>
+<ellipse cx="400" cy="845" rx="260" ry="16" fill="#000" opacity=".12"/>
+<g fill="none" stroke="#8E816E"></g>
+<path d="M288 196 L512 196 L566 806 L444 806 L400 430 L356 806 L234 806 Z" fill="#D2BFA3" stroke="#8E816E" stroke-width="3" stroke-linejoin="round"/>
+<g clip-path="url(#cpp)"><rect x="0" y="0" width="800" height="1000" fill="url(#shp)"/></g>
+<g fill="none" stroke="#8E816E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"><path d="M288 196 H512 V232 H288 Z"/><path d="M400 232 V430"/><path d="M345 232 Q330 330 316 560"/><path d="M455 232 Q470 330 484 560"/></g>
+</g>
+</svg>
